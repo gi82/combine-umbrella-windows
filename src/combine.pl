@@ -1,3 +1,4 @@
+# Created by gi82
 #!/usr/bin/perl
 # Combine windows from umbrella sampling method
 use strict;
